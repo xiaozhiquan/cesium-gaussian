@@ -15,5 +15,6 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 运行结果
+
+https://github.com/xiaozhiquan/cesium-gaussian/public/
