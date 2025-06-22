@@ -17,4 +17,4 @@ npm run build
 
 ### 运行结果
 
-https://github.com/xiaozhiquan/cesium-gaussian/public/
+https://github.com/xiaozhiquan/cesium-gaussian/public/1750562793691.jpg
